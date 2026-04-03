@@ -1,3 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khushisingh1935-pixel/khushisingh1935-pixel/main/Khushi Singh's tech portfolio.png" />
+</p>
+
+<br>
+
 <h1 align="center">Khushi Singh</h1>
 
 <p align="center">
@@ -16,18 +23,10 @@ Web Developer • Full Stack Enthusiast
 ## ⚡ Skills
 
 <p align="center">
-
-<!-- Fake background container -->
-<img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=none" /><br><br>
-
-<!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" /><br><br>
-
-<!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><br><br>
-
-<!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=sql,git,github,vscode" />
+  
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=sql,git,github,vscode" />
 
 </p>
 
