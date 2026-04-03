@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khushisingh1935-pixel/khushisingh1935-pixel/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/khushisingh1935-pixel/khushisingh1935-pixel/main/Khushi Singh's tech portfolio.png" />
 </p>
 
 <br>
