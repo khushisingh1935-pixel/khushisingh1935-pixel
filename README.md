@@ -16,15 +16,18 @@ Web Developer • Full Stack Enthusiast
 ## ⚡ Skills
 
 <p align="center">
-  
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" /><br><br>
-  
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><br><br>
-  
-  <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=sql,git,github,vscode" />
+
+<!-- Fake background container -->
+<img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=none" /><br><br>
+
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" /><br><br>
+
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><br><br>
+
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=sql,git,github,vscode" />
 
 </p>
 
