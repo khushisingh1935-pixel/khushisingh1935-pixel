@@ -7,7 +7,7 @@ Web Developer • Full Stack Enthusiast
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushisingh2006">LinkedIn</a> •
+  <a href="YOUR_LINK">LinkedIn</a> •
   <a href="mailto:khushisingh1935@gmail.com">Email</a>
 </p>
 
@@ -16,7 +16,16 @@ Web Developer • Full Stack Enthusiast
 ## ⚡ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,python,java,c,cpp,git,github,docker,vscode,linux" />
+  
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" /><br><br>
+  
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /><br><br>
+  
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=sql,git,github,vscode" />
+
 </p>
 
 ---
